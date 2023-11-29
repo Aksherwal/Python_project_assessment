@@ -8,4 +8,4 @@ Concept 3 : For Loops (with lists),
 Concept 4 : Nested For Loops and Conditionals,
 Concept 5 : Dictionaries
 And after these 10 high level programming problems. 
-Here is the link for my video explaination on a higher level problem:- 
+Here is the link for my video explaination on a higher level problem:- https://drive.google.com/file/d/1ohzP-fkZ4KhqBGDQQDjJ_s1Tpm8nUQaf/view?usp=drive_link
